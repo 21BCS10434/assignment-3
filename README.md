@@ -19,8 +19,6 @@ Usage
 To use this smart contract, you can deploy it to the Ethereum blockchain using a development environment like Remix or Truffle. Once deployed, you can interact with the contract by calling the checkEvenOrOdd function with the desired number as an argument.
 Ensure that you have sufficient gas to execute the transaction, especially if the number is close to the maximum value for a uint256
 
-Disclaimer
-This smart contract is provided as-is, and no guarantees are made about its security or functionality. It is essential to review and audit the code thoroughly before using it in production environments
 
 License // SPDX-License-Identifier: MIT
 
